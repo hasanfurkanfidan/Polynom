@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.Form1.resources
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.Properties.Resources.resources
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\bin\Debug\SixthQuestion.exe.config
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\bin\Debug\SixthQuestion.exe
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\bin\Debug\SixthQuestion.pdb
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.exe
+C:\Users\Furkan\source\repos\SixthQuestion\SixthQuestion\obj\Debug\SixthQuestion.pdb
